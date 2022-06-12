@@ -1,0 +1,5 @@
+#忽略index.js 和 css这个文件
+index.js
+index.css
+
+text/
